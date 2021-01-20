@@ -10,7 +10,7 @@ Instructions on specific requirements are as follows:
 
 # Get started
 
-* Visit: 
+* Visit: https://catherineolej.github.io/star-wars-fansite.github.io/
 
 ## How it was built
 
